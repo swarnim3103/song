@@ -1,1 +1,2 @@
-### npm init
+##### npm init
+##### npm install electron --save-dev
