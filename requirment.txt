@@ -1,0 +1,5 @@
+1.media player
+2.start and play button 
+3. previous and ahead button 
+4.queue
+5. themes and assets
